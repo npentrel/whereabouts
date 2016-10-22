@@ -1,5 +1,5 @@
 {
-  "name": "whereabouts",
+  "name": "whereabouts-pebble",
   "author": "MakeAwesomeHappen",
   "version": "1.0.0",
   "keywords": ["pebble-app"],
@@ -24,11 +24,6 @@
     ],
     "resources": {
       "media": [
-          {
-              "type":"bitmap",
-              "name":"BACKGROUND",
-              "file":"Images/watch.png"
-          }
       ]
     }
   }
