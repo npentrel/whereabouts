@@ -1,0 +1,35 @@
+{
+  "name": "whereabouts",
+  "author": "MakeAwesomeHappen",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "whereabouts",
+    "uuid": "84796d5d-2b21-4034-bd29-4a06b43a91fc",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": [
+          {
+              "type":"bitmap",
+              "name":"BACKGROUND",
+              "file":"Images/watch.png"
+          }
+      ]
+    }
+  }
+}

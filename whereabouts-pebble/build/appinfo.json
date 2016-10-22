@@ -1,0 +1,36 @@
+{
+    "targetPlatforms": [
+        "aplite", 
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "displayName": "whereabouts", 
+    "name": "whereabouts", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "MakeAwesomeHappen", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "whereabouts", 
+    "shortName": "whereabouts", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": [
+            {
+                "type": "bitmap", 
+                "name": "BACKGROUND", 
+                "file": "Images/watch.png"
+            }
+        ]
+    }, 
+    "uuid": "84796d5d-2b21-4034-bd29-4a06b43a91fc"
+}
